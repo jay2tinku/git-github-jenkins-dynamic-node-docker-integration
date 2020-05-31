@@ -5,6 +5,3 @@ print `ifconfig`
 
 </pre>
 ?>
-
-
-
