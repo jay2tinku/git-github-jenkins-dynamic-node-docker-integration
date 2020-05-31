@@ -6,5 +6,3 @@ print `ifconfig`
 </pre>
 ?>
 
-
-
